@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="biodata">
+        <item name="android:textColor">#EA5455</item>
+        <item name="android:textSize">40sp</item>
+    </style>
+    <style name="button">
+        <item name="backgroundTint">#EA5455</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+</resources>

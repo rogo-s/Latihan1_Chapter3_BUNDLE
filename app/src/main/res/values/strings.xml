@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Latihan1_Chapter3_BUNDLE</string>
+    <string name="name">Name</string>
+    <string name="biodata">Biodata</string>
+    <string name="password">Password</string>
+    <string name="tahunLahir">Tahun Lahir</string>
+</resources>
